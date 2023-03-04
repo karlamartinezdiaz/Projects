@@ -1,0 +1,800 @@
+2d graphics|computer graphics|displayed representation of a scene or an object along two axes of reference: height and width
+3d graphics|computer graphics|displayed representation of a scene or an object that appears to have three axes of reference: height, width, and depth
+3d pipeline|computer graphics|the process of 3d graphics can be divided into three-stages: tessellation, geometry, and rendering
+a*algorithm|programming|an algorithm that finds the shortest path between two nodes and uses a heuristic function to optimize performance.
+abstract base class|data structure|a class without instances that forms the basis of other classes that descend from it.
+abstract class|c++|a class with at least one pure virtual method is called abstract, meaning it cannot be instantiated.
+abstract data type|data type|abstract data type (adt) is a type (or class) for objects whose behavior is defined by a set of values and a set of operations.
+abstract method|topic 2|one with only a signature and no implementation body. It is often used to specify that a subclass must provide an implementation of the method. Abstract methods are used to specify interfaces in some computer languages.
+abstractioin|common terms|removing detail of something to focus on a subset of the features without confusing details
+abstraction|data structures|simplified representation of something more complex.
+access|cybersecurity|the ability and means to communicate with or otherwise interact with a system, to use system resources to handle information, to gain knowledge of the information the system contains, or to control system components and functions
+access control|cybersecurity|the process of granting or denying specific requests for or attempts to: 1) obtain and use information and related information processing services; and 2) enter specific physical facilities
+access control mechanism|cybersecurity|security measures designed to detect and deny unauthorized access and permit authorized access to an information system or a physical facility
+access time|computing components|the time delay or latency between a request to an electronic system, and the access being completed or the requested data returned.
+accessibility|design principles|the design of products, devices, services, or environments taking into consideration the ability for all users to access, including people who experience disabilities or those who are limited by older or slower technology.
+accessor method|adts|class member that gets the value of a data field 
+access speed|hardware|the speed at which data can be written to and read from a storage device.
+ackermann's function|math|the simplest example of a well-defined total function which is computable but not primitive recursive
+activation record|trees|the record of variables that are implemented
+active attack|cybersecurity|an actual assault perpetrated by an intentional threat source that attempts to alter a system, its resources, its data, or its operations
+active content|cybersecurity|software that is able to automatically carry out or trigger actions without the explicit intervention of a user
+actual argument|variable|a variable or expression that is passed to a function. It corresponds to a 'formal' argument in the function declaration.
+adaptive sort|algorithim|a sorting algorithm that can take advantage of existing order in the input, reducing its requirements for computational resources as a function of the disorder in the input.
+add method|method|adds an element to a set is if the element doesn't exist previously
+address bus width|hardware|the number of parallel lines that make up the address bus. This will determine the amount of memory that can be addressed by the system.
+address calculator|hash tables|an algorithm that takes a piece of data as input and outputs a number that will be the location of the data in the hash table
+address|term|a number that labels a location in a computer's memory.
+addressabliity|computing components|the capability of a microprocessor etc. to deal with values of a certain size using a single instruction
+address-calculation sort|algorithm|a sort algorithm which uses knowledge of the domain of the items to calculate the position of each item in the sorted array.
+adjacency list and matrix|list|a list that is visualized as an array of head pointers 
+adjacency matrix|data structures|a two-dimensional array used to store graph data.
+adjacent|graphs|two vertices of a graph are joined by an edge 
+adt bag|bag|an object that consists of an unordered collection of zero or more elements of a certain type 
+adt|adt|a collection of data values together with a set of well-specified operations on the data.
+agent architecture|diagrams|the layout of a conceptual idea that depicts decision making and goals 
+agent-based model|topic 5|a class of computational models for simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) with a view to assessing their effects on the system as a whole. It combines elements of game theory, complex systems, emergence, computational sociology, multi-agent systems, and evolutionary programming. Monte Carlo methods are used to introduce randomness. 
+aggregate data type|data type|a data type composed of multiple elements, like arrays, or structures.
+aggregate function|topic 6|in database management, a function in which the values of multiple rows are grouped together to form a single value of more significant meaning or measurement, such as a sum, count, or max. 
+aggregation|classes|association term for a class member being able to access an object outside of its scope 
+agile software development|topic 7|an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change. 
+air gap|cybersecurity|to physically separate or isolate a system from other systems or networks
+algorithm|theory|a step by step recipe for performing a task within a finite amount of time.
+algorithmic efficiency|topic 10|a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must be analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on usage of different resources.
+algorithms|algorithms|a set of instructions to solve a particular problem 
+algortith|dialogue|step by step on how you'll execute your code for a given task
+allocation|memory|to create (allocate) memory for something
+allocator|dynamic memory|library class that allocates unconstructed memory
+alpha blending|computer graphics|a technique in graphics processing that simulates transparency or translucency for objects or layers
+alpha buffer|computer graphics|an extra color channel to hold transparency information
+alternation|memory|the process of changing or modifying any information stored in a computer.
+alu|hardware|arithmetic logic unit. A component of the processor that performs arithmetic operations and logical comparisons.
+ambient light|computer graphics|a global level of artificial illumination that ensures all surfaces are visibly lit, particularly those with direct illumination
+american standard code for information interchange|topic 11|a character encoding standard for electronic communications. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters. 
+amplitude|hardware|the height of an analogue wave, measured from its rest level, at a given point in time. For sound waves, this is a measurement of volume.
+analogue|compression|a signal that varies continuously over a period of time. Sound waves are typical examples of analogue wave forms
+analysis of algorithms|algorithm efficiency|the area of computer science that provides tools for contrasting the efficiency of different algorithms
+ancestor|tree|the process of changing or modifying any information stored in a computer.
+ancestor of node n|trees|a node on the path from the root to n
+and|boolean logic|a boolean operation that outputs true if both input values are true: and outputs in order to make predictions
+animation|computer graphics|a technique providing the illusion of movement using a sequence of still images
+anomaly|basic terms|a deviation from the common rule that does not fit into any established pattern.
+ansi escape code|programming|standard code that controls cursor and text color and style 
+antchain|algorithm|a subset of elements, no two of which are comparable to each other.
+anti-aliasing|computer graphics|sub pixel interpolation, a technique that reduces the jagged effect of edges and makes them appear to have better resolution
+api|sofeware|api brings information form one application to another
+append operator ++|functional programming|used to add a new item or items to the end of a list
+application|programming|a series of codes that allow specific tasks to happen
+application programming interface|application|any software with a distinct function, can be thought of as a contract of service between two applications
+applications|software|complete, self-contained programs that perform a specific function (ie. spreadsheets, databases)
+argument|basic terms|a data value or reference passed to a subroutine as required by its defined parameters.
+argument|programming|something passed into a function for the function to work with
+arguments|functions|values supplied in a function call that are used to initialize the function's parameters
+arithmetic expressions|operators|operations that can be used on int and float variables 
+array|data structure|an array is a data structure that holds similar, related data. 
+array based implementations|array-based implementations|storing items within an array, to then be sent to a data structure
+arrays|data type|a list of data that is linked sequentially via elements 
+artifact|development|any byproduct of development that helps the creation process of software 
+artificial intelligence|basic terms|the research and development of computer systems that determine the relationships between inputs and output to make predictions, instead of following programmed instructions.
+ascii|basic terms|american standard code for information interchange. An encoding format that allocates a numeric code to characters (e.g. digits, letters, punctuation marks, etc.) in order for them to be represented in binary within a computer system.
+ascii character encoding|misc|most common character encoding format
+assembler|language|a program that takes basic computer instructions and converts them into a pattern of bits that the computer's processor can use to perform its basic operations
+assembly languages|languages|a low-level programming language that uses mnemonics to represent machine code operations.
+assert|functions|preprocessor macro that takes a single expression, which it uses as a condition
+assertion|topic 17|in computer programming, a statement that a predicate (Boolean-valued function, i.e. a true–false expression) is always true at that point in code execution. It can help a programmer read the code, help a compiler compile it, or help the program detect its own defects. 
+assertions|exceptions|a statement of truth about some aspect of a program's logic
+assignment operator|operator|known as "="; assigns a value to its respective variable 
+assingment problem|graph|finding, in a weighted bipartite graph, a matching of a given size, in which the sum of weights of the edges is minimum.
+assembly languages|programming language|programming language that uses mnemonics to represent machine code operations
+associative array|associative containers|array whose elements are indexed by key rather than positionally
+associative containers|the standard template library|provide efficient key-based access to the collection
+assymetric-encryption|data|a method of encryption in which pairs of keys, public and private, are used to encrypt and decrypt data
+asymmetric encryption|encryption|a method of encryption in which a pair of keys a public key and a private key are used to encrypt and decrypt data
+asynchronous communication|communication|a method of communication where data is transmitted over a channel that is not controlled by a shared clock signal.
+asynchronous|language|a process operates independently of other processes
+atmospheric effect|computer graphics|effects, such as fog and depth cueing that improve the rendering of real-world environments
+attack method|cybersecurity|the manner or technique and means an adversary may use in an assault on information or an information system
+attack path|cybersecurity|the steps that an adversary takes or may take to plan, prepare for, and execute an attack
+attack pattern|cybersecurity|similar cyber events or behaviors that may indicate an attack has occurred or is occurring, resulting in a security violation or a potential security violation
+attack signature|cybersecurity|a characteristic or distinctive pattern that can be searched for or that can be used in matching to previously identified attacks
+attack surface|cybersecurity|the set of ways in which an adversary can enter a system and potentially cause damage
+attacker|cybersecurity|an individual, group, organization, or government that executes an attack
+automata theory|theory|automata theory is the study of abstract machines and automata, as well as the computational problems that can be solved using the 
+automated reasoning|topic 19|an area of computer science and mathematical logic dedicated to understanding different aspects of reasoning. The study of automated reasoning helps produce computer programs that allow computers to reason completely, or nearly completely, automatically. Although automated reasoning is considered a sub-field of artificial intelligence, it also has connections with theoretical computer science, and even philosophy. 
+autonomous|artificial intelligence|a machine is described as autonomous if it can perform its task or tasks without needing human intervention
+avl tree|balanced search trees|a self balancing binary search tree with both subtrees differing by no more than one 
+avl trees|trees|a balanced binary search tree
+axioms|adts|a mathematical rule that specify a behavior of an adt 
+back of a queue|data structure|the end of a queue at which items are inserted.
+backtracking|recursion|a technique for solving problems recursively.
+backtracking algorithms|algorithm|class of algorithm for finding solutions to some computational problems, builds solutions and then abandons them if they're not better than something else
+back-up|software|a copy of data, usually stored on a separate device, that can be used to recover the data if a storage device fails or the original data is corrupted or lost.
+backward chaining|artificial intelligence|a method where the model starts with the desired output and works in reverse to find data that might support it
+balanced tree|trees|where the height of the right subtree is equivilent to the height of the left subtree, or there is a difference of at most one level
+bandwidth|hardware|the theoretical maximum amount of data that can be transferred over a communication channel, measured in bits per second
+bare metal|hardware|refers to running directly on the machine instead of a virtual machine
+base case|recursion|a value for which there is a solution for a basic instance of a problem and which provides a stopping condition for recursion 
+base case|recursion|a problem that is sufficiently small that it can be solved in one step
+base condition|recursion|piece of code that allows the end of a recursive function
+baud rate|hardware|the speed of data transmission. The number of times per second that a signal changes (or could change).
+baud-rate|data|the speed of data transmission, the number of times that a signal changes
+bayesian programming|topic 21|a formalism and a methodology for having a technique to specify probabilistic models and solve problems when less than the necessary information is available. 
+benchmark|topic 22|the act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it. The term benchmark is also commonly utilized for the purposes of elaborately designed benchmarking programs themselves. 
+best case|programing|best case refers to the best possible runtime efficiency of a certain chunk of code based on the data it works with
+best-first search|algorithms|best-first search is a class of search algorithms, which explore a graph by expanding the most promising node chosen according to a specified rule.
+beta testing|testing|the use of advanced end users to test a nearly complete 
+bias|artificial intelligence|assumptions made by a model that simplify the process of learning to do its assigned task
+biconnected graph|graph|a connected graph having no articulation vertices
+big 3|c++|the main three elements of copy control: the assignment operator, the copy constructor, and the destructor.
+big data|memory|data that is too large and complex to be dealt with by traditional processing methods and systems.
+big o|efficiency|a formal notation for expressing the time or space complexity of an algorithm.
+big o notaiton|algorithm|a notation that uses the capital letter o to specify an algorithm's order
+big o|concepts|simple way to measure efficiency with a program
+bigdata|programing|a quick way to refer the massive amounts of data
+big-o notation|complexity|mathematical notation that describes the limiting behavior of a function when the argument/number of data points approaches infinity
+bilinear filtering|computer graphics|a method of anti-aliasing texture maps
+bin sort|algorithm|sorting algorithm that works by distributing the elements of an array into a number of buckets.
+binary|number system|numbering scheme which each digit can be a 0 or a 1
+binary addition|algorithms|the process of adding two binary numbers.
+binary alphabet|units|the two options used in your binary code.
+binary digit|base|binary numbers are represented by only two symbols or digits
+binary file|memory|a file that stores data as binary sequences that can be interpreted by a computer system but are not in a human-readable format.
+binary function|function|a binary function is a function that takes two inputs
+binary number|topic 25 |in mathematics and digital electronics, a number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically 0 (zero) and 1 (one). 
+binary predicate|generic algorithms|predicate that has two parameters
+binary search|algorithm|searching algorithm that searches a sorted array by comparing the target
+binary search algorithm|topic 26|a search algorithm that finds the position of a target value within a sorted array.     
+binary search tree|data structure|a data structure that is designed for efficient searching where each node's value is greater than that of all nodes in its left subtree and less than that of all nodes in its right subtree.
+binary shift left|operations|moving all the bits of a binary sequence one place to the left.
+binary shift right|operations|moving all the bits of a binary sequence one place to the right.
+binary sort tree|tree|a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree.
+binary system|programming|a number system in which all numbers are comprised of a series of 0's and 1's
+binary tree|data structures|a tree data structure in which each node has at most two children
+binomial heap|data structures|a binomial heap is a data structure that acts as a priority queue but also allows pairs of heaps to be merged.
+bintree|tree|a k-ary. tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+bioinformatics|topic 28|an interdisciplinary field that combines biology, computer science, information engineering, mathematics, and statistics to develop methods and software tools for analyzing and interpreting biological data. 
+bios|hardware|basic input/output System. Software that is stored in non-volatile memory, that carries out checks on core system components and starts up (boots) a computer system to the point where management and control can be passed to the operating system.
+bit|hardware|basic unit of information, either 1 or 0
+bit depth|memory|the number of bits used to encode each sample. determines how accurately the sample can be represented. also called sampling resolution.
+bit pattern|memory|a unique string of binary digits used in a representation.
+bit rate|hardware|the number of bits that are transmitted over a communications channel per second.
+bit vector|array|a bit array is an array data structure that compactly stores bits.
+bitmap|computer graphics|a pixel by pixel image
+bitmapped graphic|graphics|a type of digital image that is stored as pixels. Each pixel is represented by a single colour code. Also called bitmapped image.
+bitmapped image|graphics|a type of digital image that is stored as pixels. Each pixel is represented by a single colour code. Also called bitmapped graphic.
+bitset|specialized library facilities|standard library class that holds a collection of bits of a size that is known at compile time
+black box testing|testing|testing that does not rely on understanding the inner workings of a program.
+blacklist|topic 31|in computing, a basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned in a list of prohibited elements. Those items on the list are denied access. 
+blagging|cyber-security|an attack in which the attacker invents a scenario in order for the victim to give them personal information or money
+blitter|computer graphics|a part of a display controller that specializes in bitmap data-transfer using bitbit methods
+block|statements|sequence of zero or more statements enclosed in curly braces
+block-based programming language|language|any programming language that lets users create programs by manipulating “blocks” or graphical programing elements, rather than writing code using text. Examples include Code Studio, Scratch, Blockly, and Swift. (Sometimes called visual coding, drag and drop programming, or graphical programming blocks)
+bluetooth|technology|wireless technology that is used for exchanging data over short distances
+bmp file format|topic 32|a raster graphics image file format used to store bitmap digital images independently of the display device (such as a graphics adapter), used especially on Microsoft Windows and OS/2 operating systems.
+bnf|languages|Backus-Naur Form. A formal notation for describing a context-free language such as a programming language.
+bogosort|sorting algorithms|generates a list by random until it is sorted 
+bool|term|refers to boolean
+boolean|data type|the Boolean is a data type that has one of two possible values which is intended to represent the two truth values of logic and Boolean algebra.
+boolean algebra|boolean logic|a branch of algebra where the variables have one of two possible values true or false these values are often expressed as 1 and 0
+boolean data type|topic 33|a data type that has one of two possible values (usually denoted true and false), intended to represent the two truth values of logic and 
+boolean expression|logic|a logical statement, made up of boolean variables, boolean constants and boolean operators that will always evaluate as true or false.
+boolean identity|logic|a relation between two elements that always holds true for all possible values of the variable(s).
+boolean operator|logic|an operator that perform a logical comparison, such as and, not, or or. Also called logical operator.
+boolean variable|logic|a variable that takes one of only two values: true or false. these values are represented in binary as 1,1 or 0,0. some systems will display the values as yes/no.
+boolean|variable|a variable that can have only one of two values: true / false.
+boot process|hardware|the process of starting up a computer system.
+boot sector|hardware|the first sector of a hard disk drive that contains the boot loader.
+boot|software|the process of loading or initializing an operating system on a computer; usually occurs as soon as a computer is turned on
+booting|topic 37|the procedures implemented in starting up a computer or computer appliance until it can be used. It can be initiated by hardware such as a button press or by a software command. 
+tootloader|hardware|a program that is loaded into memory when a computer system is started up. It is responsible for loading the operating system into memory.
+bot|cybersecurity|a computer connected to the internet that has been surreptitiously / secretly compromised with malicious logic to perform activities under remote the command and control of a remote administrator
+bot master|cybersecurity|the controller of a botnet that, from a remote location, provides direction to the compromised computers in the botnet.
+botnet|cybersecurity|a collection of computers compromised by malicious code and controlled across a network
+boundary data|testing|test data that is on the limit of the acceptable range of valid data.
+boundary-data|data|test data that is on the limit of the acceptable range of data
+box trace|recursion|a mechanical device that helps you understand and debug recursive functions 
+box trace|recursion|illustrates how compilers frequently implement recursion
+bozo sort|algorithm|bogosort is a sorting algorithm based on the generate and test paradigm.
+branch|instruction|a branch is an instruction in a computer program that can cause a computer to begin executing a different instruction sequence and thus deviate from its default behavior of executing instructions in order.
+branch prediction|hardware|a technique used by the processor to predict which branch of a conditional statement will be executed.
+branching|basic terms|the process of executing different lines of code depending on the outcome of a condition.
+branching factor|data structures|the number of children that each node in a tree has.
+breadth first search|graphs|traverses a graph layer-wise to find the satisfactory object 
+breadth-first search|search|an algorithm that searches a graph by searching all the nodes at a given depth before moving on to the next depth.
+brick sort|data structures|a k-ary. tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+rowser|software|a program used to view World Wide Web pages, such as Netscape Navigator or Internet Explorer
+brute force|algorithm|trying every single possibility
+brute force attack|encryption|a method of systematically trying all possibilities to find secret information eg a password or encryption key
+brute-force-attack|cyber-security|a method of systematically trying all possibilities to find secret information
+bubble sort|algorithms|a sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order.
+bucket|data structure|a bucket is a document of no definite size to which information of interest is added with no structure.
+bucket array|data structure|implementation of a dictionary by an array indexed by the keys of the items in the dictionary.
+buckets|hash table|every location of a hash table is an array; array of arrays
+buffer|computer graphics|memory dedicated to a specific function or set of functions
+buffer overflow|basic terms|an error that occurs when a program attempts to write more data to a buffer than it can hold.
+buffer|common terms|location for storage of temporary data
+bug|programing|a programing error can cause unexpected glitches or problems 
+bus|computing components|the data path on the computer's motherboard that interconnects the microprocessor with attachments to the motherboard in expansion slots
+byte|memory|eight bits of binary data.
+Bytecode|language|low-level code, produced by a compiler, that can be interpreted by a virtual machine.
+c|languages|a general-purpose, procedural programming language that is designed to be compiled to create an executable program.
+c++|languages|a general-purpose, object-oriented programming language that is designed to be compiled to create an executable program.
+cache|data|high speed memory used to hold e data that is accessed most frequently, to improve processor performance
+cache|hardware|a small amount of high-speed memory that is used to store frequently used data.
+cactus stack|stack|a variant of stack in which one other cactus stack may be attached to the top. An attached stack is called a "branch." When a branch becomes empty, it is removed.
+caesar cipher|encryption|a simple substitution cipher in which each letter is shifted by a certain number of places
+calender queue|queue|a priority queue (queue in which every element has associated priority and the dequeue operation removes the highest priority element)
+call by reference|function|passing a pointer to an argument to a function. The function can then change the argument value
+call by value|function|passing a copy of an argument to a function. The function cannot then change the argument value. C and C++ use call by value argument passing
+call signature|overloaded operations and conversion|represents the interface of a callable object
+call stack|recursion|stack that is used to store information stack frames relevant to all subroutines that are currently running within a program
+call stack|term|mechanism for an interpreter to keep track of its place in a script
+callable object|generic algorithms|object that can appear as the left-hand operand of the call operator
+callback|topic 38|any executable code that is passed as an argument to other code that is expected to "call back" (execute) the argument at a given time. 
+call-by-reference|languages|a method of passing arguments to a subroutine in which the address of the argument is passed rather than the value of the argument.
+call-by-value|languages|a method of passing arguments to a subroutine in which the value of the argument is passed rather than the address of the argument.
+camel case|programming|the practice of capitalizing the first letter of each compound word in a programming variable to improve readability
+cardinality|discrete|the number of distinct elements in a set
+cartesian product|math|the set of all ordered pairs formed by multiplying the elements of two sets.
+cartesian tree|tree|a system used to display a specified point defined in a plane by a set of numerical coordinates
+cartesian-product|discrete|the set of all ordered pairs formed by multiplying the elements of two sets
+cast|expressions|an explicit conversion
+casting|data|changing the data type of a piece of data
+catch block|exceptions|must immediately follow the try block, contains code to react to or catch a particular type of exception
+cd|hardware|compact disc. an optical storage device.
+central processing unit|hardware|executes instructions, performs basic arithmetic, logic, controlling, and i/o based on provided instructions
+char|keyword|a C++ keyword used to declare an object of character type. Often considered the same as a byte, though it is possible to have multi-byte characters
+character|data|a single letter, number, or symbol.
+character set|logic|a system for representing letters, numbers, and symbols in binary, with each represented by a binary sequence.
+checksum|math|a value derived from a block of binary data that is used for error checking as part of a data communication system.
+child node|trees|the node which is a descendant of some node
+child|data structure|a node that belong to a "parent" node in a tree
+chroma keying|computer graphics|the removal of a color from one image to reveal another image "behind"  it. the removed color becomes transparent
+cipher|topic 41|in cryptography, an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure. 
+ciphertext|cyber-security|an encrypted message that is the result of applying an encryption algorithm to a plaintext message
+circuit switching|memory|a method of transferring data across a network, where the end-to-end path is established before any data is sent.
+circular linked list|data structures|a data structure in which data is stored in non-contiguous locations in memory, the structure is similar to a linked list besides the last pointer pointing to the first
+circular queue|data structure|a way of implementing a queue based on a static array where free space at the start of the array is used once the end of the array is reached.
+class (html)|library|an identifier that can be applied to a collection of html elements to style them in a way that is specified by a corresponding css rule-set.
+class (oop)|library|a definition of an object that describes its properties (attributes) and behaviours (methods).
+class|programming|a structure that holds members in either private or public areas
+client|programming|a program that requests information from other programs or processes
+client-server-model|hardware|a networking architecture where devices are designated as clients of servers
+clipping|computer graphics|avoiding the drawing of items outside a defined field of view
+cll|data structure|circular linked list, wraps back around to the beggining of the list after reaching the end 
+clock cycle|boolean logic|the elapsed time between the change of signals from a clock
+clock-speed|hardware|the rate at which the processor can complete its programming cycle, typically measured in gigahertz where 1 Ghz is one billion cycles per second
+closed-source-software|software|software for which the program source code is not made available to the general public
+closure|topic 46|a technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment.  
+cloud computing|topic 47|shared pools of configurable computer system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet. Cloud computing relies on sharing of resources to achieve coherence and economies of scale, similar to a public utility. 
+cloud storage|computers|an alternative to storing data on a computer’s physical storage
+cluster|hash tables|a consecutively occupied location in a hash table 
+co domain|functional programming|the set of data that defines all possible outputs of a function
+code|programming|another term for the programming languages used to edit, create, and manage computer applications
+code library|coding|pre-existing databases of code that can be referenced to make coding easier and quicker
+code review|industry|the checking of code written by another programmer to ensure its quality.
+code storage|pointers|when a C++ program begins execution the operating system sets aside memory for the code
+coding theory|topic 50|the study of the properties of codes and their respective fitness for specific applications. Codes are used for data compression, cryptography, error detection and correction, data transmission and data storage. Codes are studied by various scientific disciplines—such as information theory, electrical engineering, mathematics, linguistics, and computer science—for the purpose of designing efficient and reliable data transmission methods. This typically involves the removal of redundancy and the correction or detection of errors in the transmitted data. 
+coding|programming|process of creating a computer program that can do a specific task
+co-domain|logic|the set of data that defines all possible outputs of a function.
+cognitive computing|artificial intelligence|another way of saying artificial intelligence
+cognitive science|topic 51|the interdisciplinary, scientific study of the mind and its processes. It examines the nature, the tasks, and the functions of cognition (in a broad sense). Cognitive scientists study intelligence and behavior, with a focus on how nervous systems represent, process, and transform information. 
+collection|topic 52|a collection or container is a grouping of some variable number of data items (possibly zero) that have some shared significance to the problem being solved and need to be operated upon together in some controlled fashion. 
+collision (hashing)|logic|occurs when two (different) keys generate the same hash value.
+collision|hash tables|collisions are when two unique pieces of data are mapped into the same index in the hash table
+collision-resolution schemes|hashing|techniques used to approach a perfect hash function 
+collisions|hash tables|occurs when more than one value to be hashed by a particular  hash function hash to the same slot in the table or data structure (hash table)  being generated by the hash function.
+colour depth|graphics|the number of bits used to represent a colour. also known as bit depth.
+comb sort|algorithm|an in-place sort algorithm that repeatedly reorders different pairs of items. 
+command line interface|platform|interface that has i/o in the form of text
+comma-separated values|topic 53|a delimited text file that uses a comma to separate values. A CSV file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. 
+comment|language|a programmer-readable explanation or annotation in the source code of a computer program
+commitment-ordering|data|a technique used to control multi-user access to a database based around ensuring that multiple commitments are processed in the correct order
+common gateway interface|networks|defines how an auxiliary program and a web server would communicate
+compile time|time|the time during which a compiler translates a program from source form into machine language
+compiled languages|language|programming language which must be compiled, converted to machine code, before it can be executed
+compiler|software|a program translator that goes through several stages to produce object code (an executable file).
+compiling|common terms|the process of translating source code within a source file from higher-level language into lower-level language, and then creating and saving that translated code in an executable file
+complete binary tree|trees|of height h is a binary tree that is full down to level h – 1, with level h filled in from left to right
+complete graph|graph|graphs where each vertices have edges between them 
+compression|memory|the process of reducing file size by applying a compression algorithm.
+computability theory|topic 55|also known as recursion theory, is a branch of mathematical logic, of computer science, and of the theory of computation that originated in the 1930s with the study of computable functions and Turing degrees. The field has since expanded to include the study of generalized computability and definability. 
+computation|topic 56|any type of calculation that includes both arithmetical and non-arithmetical steps and follows a well-defined model, e.g. an algorithm. The study of computation is paramount to the discipline of computer science. 
+computational biology|topic 57|involves the development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of biological, ecological, behavioural, and social systems. The field is broadly defined and includes foundations in biology, applied mathematics, statistics, biochemistry, chemistry, biophysics, molecular biology, genetics, genomics, computer science, and evolution. 
+computational chemistry|topic 58|a branch of chemistry that uses computer simulation to assist in solving chemical problems. It uses methods of theoretical chemistry, incorporated into efficient computer programs, to calculate the structures and properties of molecules and solids. 
+computational complexity theory|topic 59|a subfield of computational science which focuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an algorithm. 
+computational learning theory|artificial intelligence|a field within artificial intelligence that is primarily concerned with creating and analyzing machine learning algorithms
+computational model|topic 60|a mathematical model in computational science that requires extensive computational resources to study the behavior of a complex system by computer simulation.   
+computational neuroscience|topic 61|a branch of neuroscience which employs mathematical models, theoretical analysis, and abstractions of the brain to understand the principles that govern the development, structure, physiology, and cognitive abilities of the nervous system.    
+computational physics|topic 62|is the study and implementation of numerical analysis to solve problems in physics for which a quantitative theory already exists. Historically, computational physics was the first application of modern computers in science, and is now a subset of computational science. 
+computational science|topic 63|an interdisciplinary field that uses advanced computing capabilities to understand and solve complex problems. It is an area of science which spans many disciplines, but at its core it involves the development of computer models and simulations to understand complex natural systems. 
+computational security|security|a measure of how hard it is to use a computer to crack a piece of ciphertext.
+computational steering|topic 64|is the practice of manually intervening with an otherwise autonomous computational process, to change its outcome. 
+computational steps|logic|statements in program code that calculate or compare values.
+computational-security|cyber-security|a measure of how hard it is to use a computer to crack a piece of ciphertext
+computer|computers|a device that can be instructed to carry out sequences of arithmetic and logical operations automatically via computer programming
+computer architecture|algorithm|the structure and organisation of a computer system.
+computer architecture|topic 66|a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation. 
+computer data storage|topic 67|a technology consisting of computer components and recording media that are used to retain digital data. Data storage is a core function and fundamental component of all modern computer systems.  
+computer ethics|topic 68|a part of practical philosophy concerned with how computing professionals should make decisions regarding professional and social conduct. 
+computer graphics|topic 69|pictures and films created using computers. Usually, the term refers to computer-generated image data created with the help of specialized graphical hardware and software. It is a vast and recently developed area of computer science. 
+computer network|topic 70|a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. 
+computer program|topic 7|is a collection of instructions that can be executed by a computer to perform a specific task. 
+computer programming|topic 72|the process of designing and building an executable computer program for accomplishing a specific computing task. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms in a chosen programming language. 
+computer science|topic 73|the theory, experimentation, and engineering that form the basis for the design and use of computers. It involves the study of algorithms that process, store, and communicate digital information. A computer scientist specializes in the theory of computation and the design of computational systems. 
+computer scientist|topic 74|a person who has acquired the knowledge of computer science, the study of the theoretical foundations of information and computation and their application.   
+computer security|topic 75|the protection of computer systems from theft or damage to their hardware, software, or electronic data, as well as from disruption or misdirection of the services they provide. 
+computer stystem|computer system|hardware and software that work together for computation
+computer vision|topic 76|an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.   
+computer-architecture|hardware|the structure and organization of a computer system
+computer-system|hardware|the hardware and software that work together for computation
+computing|topic 77|is any goal-oriented activity requiring, benefiting from, or creating computing machinery. It includes study of algorithmic processes and development of both hardware and software. 
+concatenation|logic|joining two strings together to make a new string.
+concatenation|operation|an operation that joins two strings end to end to make a new string.
+concurrency|approach|form of computing in which computations are executed concurrently during overlapping time periods
+condition|logic|an expression that evaluates to true or false (such as within an 'if' statement).
+condition state|io library|flags and associated functions usable by any of the stream classes that indicate whether a given stream is usable
+conditional|topic 80|a feature of a programming language which performs different computations or actions depending on whether a programmer-specified Boolean condition evaluates to true or false. Apart from the case of branch predication, this is always achieved by selectively altering the control flow based on some condition. 
+conditional logic|term|simple way to tell a computer to perform an action when a condition has been met
+conditional statements|programming|set the terms for when a program moves forward at runtime
+connection|networking|refers to pieces of related information that are transferred through a network
+constant|memory|an identifier associated with an area of computer memory in which data is stored. The stored data cannot change during program execution.
+constant time|programming|an operation in a program operates at (o)1, which means it is not affected by the size of the data
+constructor|classes|constructors are evoked when a class object is declared that sets data members to certain values
+container|sequential containers|type that holds a collection of objects of a given type. Each library container type is a template type
+continuation-passing style|topic 82|a style of functional programming in which control is passed explicitly in the form of a continuation. This is contrasted with direct style, which is the usual style of programming. 
+control flow|topic 83|the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language. 
+control information|memory|information, typically contained in a packet header, that provides data for packet routing, sequencing, and delivery.
+control protocol|adt|an agreed method used to determine when messages should (and should not) be sent.
+control structure|common terms|code or statement that changes the order of execution for instance an if-statement conditionally executes code while a loop may perform a section of code repeatedly
+control unit|processors|component of the processor that directs the operation of the other system components by providing timing and control signals
+control-bus|hardware|a communication pathway that carries signals to control the communication between the processor and other CPU components
+conversion|expressions|process whereby a value of one type is transformed into a value of another type
+convex combination|vectors|one or more vectors that lie within the convex hull.
+convex hull|vectors|a representation of the space between two or more vectors.
+convex-combination|vector|one or more vectors that lie within the convex hull
+convex-hull|vector|a representation of the space between two or more vectors
+copy control|copy control|special members that control what happens when objects of class type are copied, moved, assigned, and destroyed
+core|hardware|a processing unit that contains an arithmetic logic unit, a control unit, and registers
+corpus|artificial intelligence|a large dataset of written or spoken material that can be used to train a machine to perform linguistic tasks
+cost|algorithms|the cost of a program's ability to run as efficient as it's made, such as spending more time making a better function 
+countable-set|discrete|a finite set where the members can be counted using natural numbers
+coupling|programming|a measure of dependence among modules
+cpu|hardware|acronym for central processing unit
+creative commons|topic 84|an American non-profit organization devoted to expanding the range of creative works available for others to build upon legally and to share. The organization has released several copyright-licenses, known as Creative Commons licenses, free of charge to the public. 
+cryptanalysis|cybersecurity|the operations performed in defeating or circumventing cryptographic protection of information by applying mathematical techniques and without an initial knowledge of the key employed in providing the protection
+cryptographic algorithm|cybersecurity|a well-defined computational procedure that takes variable inputs, including a cryptographic key, and produces an output
+cryptography|cybersecurity|the use of mathematical techniques to provide security services, such as confidentiality, data integrity, entity authentication, and data origin authentication
+css|language|cascading style sheets. a set of definitions that can be used to style the content and layout of an html page.
+cyber ecosystem|cybersecurity|the interconnected information infrastructure of interactions among persons, processes, data, and information and communications technologies, along with the environment and conditions that influence those interactions
+cyber infrastructure|cybersecurity|an electronic information and communications systems and services and the information contained therein
+cyberattack|security|an attempt to gain unauthorised access to a computer, computing system, or computer network with the intent to cause damage, to cause disruption, or to steal data.
+cybersecurity|programing|the process of protecting data from unanthorized user or hackers
+cyberspace|topic 86|widespread, interconnected digital technology. 
+cycle|graph|the steps that a computer's processor executes whenever it receives a machine language instruction
+daemon|topic 87|in multitasking computer operating systems, a daemon  is a computer program that runs as a background process, rather than being under the direct control of an interactive user. 
+dangling pointer|pointers|when the address of an object still exists after it's been deallocated, a pointer that still contains the address of an object that was deallocated
+dark web|security|an unindexed part of the internet that must be accessed through specialist software and hosts a wide range of (mainly illegal) content.
+data abstraction|data structures|the process of hiding the implementation details of a data structure from the user.
+data access|data structures|the process of accessing data stored in a data structure.
+data access method|data structures|a method of accessing data stored in a data structure.
+data access pattern|data structures|the pattern of accessing data stored in a data structure.
+data access time|data dtructures|the time taken to access data stored in a data structure.
+data breach|cybersecurity|the unauthorized movement or disclosure of sensitive information to a party, usually outside the organization, that is not authorized to have or see the information
+data bus|memory|a communication pathway that is used to carry data between the processor and other cpu components.
+data center|topic 88|a dedicated space used to house computer systems and associated components, such as telecommunications and data storage systems. It generally includes redundant or backup components and infrastructure for power supply, data communications connections, environmental controls (e.g. air conditioning and fire suppression) and various security devices. 
+data communication|memory|the process of sending and receiving data.
+data compression|basic terms|the process of reducing the size of a file by removing redundant information.
+ata conversion|basic terms|the process of converting data from one format to another.
+data corruption|basic terms|the process of corrupting data by changing it in some way.
+data element|data structures|a single item of data stored in a data structure.
+data encryption|basicterms|the process of converting data into a form that cannot be understood by anyone other than the intended recipient.
+dataintegrity|cybersecurity|the property that data is complete, intact, and trusted and has not been modified or destroyed in an unauthorized or accidental manner
+data loss|cybersecurity|the result of unintentionally or accidentally deleting data, forgetting where it is stored, or exposure to an unauthorized party
+data loss prevention|cybersecurity|a set of procedures and mechanisms to stop sensitive data from leaving a security boundary
+data member|data|a portion of a C++ structure or class that stores data of a particular type
+data mining|cybersecurity|the process or techniques used to analyze large sets of existing information to discover previously unrevealed patterns or correlations 
+data redundancy|memory|the same item of data being stored in multiple places.
+data science|topic 91|an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining. 
+data structure|data structures|a way of organizing data in a computer system so that it can be accessed and worked with efficiently.
+data structures|term|a data organization, management, and storage format that is often chosen for efficienty
+data type|basic terms|a category of data that determines the possible values for that data, the operations that can be performed on it, the meaning of the data, and the way values of that type can be stored.
+data type conversion|basic terms|the process of converting data from one data type to another.
+data types|term|different ways of representing data in memory: int, float, char, bool, etc.
+data|concepts|information inputted and outputted by a user/program
+database|basic terms|a collection of data that is organised in such a way that it can be easily accessed, managed and updated.
+database management system|basic terms|a software system that is designed to store and retrieve data from a database.
+data-bus|data|a communication pathway that is used to carry data between the processor and other cpu components
+data-mining|data|the process of extracting valuable information by discovering patterns in large data sets
+datatype|programming|an element of data that tells compilers how to store and work with the data being typed
+ddos|cyber-security|distributed denial of service, a malicious attempt to overwhelm a server by bombarding it with requests
+de morgans laws|boolean logic|not a and b is the same as not a or not b not a or b is the same as not a and not b
+deallocation|memory|to clear up memory from something
+debug|common terms|the process of removing bugs from a program
+debugger|debug|a software component that enables you to debug a program.
+debugging|programming|is a process that aims to find and remove bugs from the source code of a program
+decision tree|tree|a graph that uses a branching method to illustrate every possible output for a specific input
+declaration|memory|the process of stating the name of a variable or constant and defining its data type.
+decomposition|algorithms|the process of breaking a problem down into smaller, more manageable subproblems.
+decrement|operations|the process of decreasing the value of a variable by one.
+decrement operator|programming| operator that removes one from its operand 
+decryption|cybersecurity|the process of transforming ciphertext into its original plaintext
+deep copy|data|copying an entire object including the data allocation 
+deep learning|artificial intelligence|a function of artificial intelligence that imitates the human brain by learning from the way data is structured, rather than from an algorithm that's programmed to do one specific thing
+definition|basic terms|a statement that defines a term.
+defragmentation|hardware|the process of organizing file blocks stored on a disk by grouping them into adjacent sectors
+degree of a tree|trees|the highest degree of a node among all the nodes in the tree
+degree of relationship|math|the relationship between two entities (one-to-one, one-to-many, or many-to-many).
+delegation|c++|giving programming tasks to the lowest-level object that can handle them. 
+delete|memory|keyword used to deallocate memory that was allocated using "new"
+deleter|dynamic memory|function passed to a smart pointer to use in place of delete when destroying the object to which the pointer is bound
+deletion|concepts|deleting something (usually data) within a data structure
+denary|discrete|a number system that uses ten distinct symbols to represent a number from 0-9
+depth|graphics|alternatively referred to as bit depth, pixel depth, color depth refers to the number of bits per pixel on a computer monitor to represent a specific color.
+depth cueing|computer graphics|the lowering of intensity as objects move away from the viewpoint
+depth first search|graphs|graph traversal strategy that proceeds along a vertex path as deeply into the graph as possible before returning back 
+depth-first search|search|an algorithm that searches a graph by searching as far as possible along each branch before backtracking.
+deque|data structure|double ended queue
+dequeue|data structures|the operation of removing an item from the front of a queue
+dereference|basic terms|the process of obtaining the value of a variable that is stored at a particular memory address.
+derived class|c++|a class that inherits from another class.
+descendant|trees|relationship between two nodes; where a parent node makes reference to a node that resides on a higher level
+descendant of node n|trees|a node on a path from n to a leaf
+destructive method|methods|any method that alters an original attribute of an object 
+destructor|classes|a destructor destroys an instance of a class when the object’s lifetime ends
+dhcp|networking|dynamic host configuration protocol. A protocol that is used to automatically assign IP addresses to devices on a network.
+dict|data structure|key-value store, also called a hash, a map, or hashmap
+dictionary|adt|an abstract data type that stores an unordered set of key–value pairs. Values are stored and retrieved by key, not by position.
+dictionary based method|compression|a lossless method of compression where each different word or group of characters is assigned a code. When the file is compressed, the words or character groups are substituted by the codes
+digit selection|hash tables|digit selection chooses specific integers in a number to use in the hash function
+digital audio|audio|a type of audio signal that is represented by a sequence of numbers.
+digital data|topic 96|in information theory and information systems, the discrete, discontinuous representation of information or works. Numbers and letters are commonly used representations. 
+digital search tree|tree|a binary tree whose or- dering of nodes is based on the values of bits in the binary representation of a node's key
+dijkstra's algorithm|algorithms|an algorithm that finds the shortest path between two nodes in a graph.
+dijkstra's shortest path algorithm|theory|an algorithm that solves the problem of finding the shortest path from point in a graph (source to destination).
+direct access|data structures|feature exclusive to arrays, allows code to directly access data
+direct addressing|memory|a method of addressing where the operand is the address of the data to be used.
+direct chaining hashing|hash table|the hash table method called direct chaining, wherein chains of items with the same hash function value are kept in a single table without recourse to an index table or a separate overflow area, is described.
+directed acyclic graph|graph|a graph that is directed and without cycles connecting the other edges
+directed graph|data structures|a graph where the connections between nodes are not bidirectional
+discrete event simulation|topic 97|a model of the operation of a system as a discrete sequence of events in time. Each event occurs at a particular instant in time and marks a change of state in the system. Between consecutive events, no change in the system is assumed to occur; thus the simulation can directly jump in time from one event to the next. 
+diskdrive|hardware|a peripheral device that reads and/or writes information on a disk
+diskette|software|a small flexible disk used for storing computer data
+dithering|computer graphics|a technique for archiving 24-bit quality in 8 or 16-bit frame buffers. uses two colors to create the appearence of a third, giving a smooth appearance to an otherwise abrupt transition
+divide and conquer|recursion|computer algorithm that breaks down a problem into two or more small yet simple problems
+dll|data structure|doubly linked list, can go forward and backward 
+dns|networking|stands for domain name system, the way which a url can be associated with an ip address
+documentation|logic|material that explains how the system works.
+domain|logic|the set of data that defines all possible inputs of a function.
+domain name|logic|a user-friendly name given to a domain that forms part of the internet.
+domain name server|logic|a server that works to resolve domain names to corresponding ip addresses.
+domain name system|software|a hierarchy of servers that work together to resolve domain names to corresponding ip addresses.
+dot product|math|the sum of the products of the corresponding entries of two sequences of numbers.
+double|basic terms|a data type that can store a floating-point number with double precision.
+double buffering|graphics|a technique that is used to avoid flickering when rendering graphics to the screen.
+double click|software|occurs when a user presses a button on the mouse twice in quick succession; this generates a command to the computer
+double free|errors|deleting the same data twice when it is impossible to
+double hashing|hash tables|a collision resolution scheme that reduces clustering by making the probe function different after every collision
+double linked list|data structures|a linked list in which each node contains a pointer to the next node and a pointer to the previous node.
+double|numerical data type|data type that can store a floating point number in decimal form up to 15 digits
+double-buffering|computer graphics|a method of using two buffers, one for display and the other for rendering
+double-precision floating-point format|topic 100|a computer number format. It represents a wide dynamic range of numerical values by using a floating radix point. 
+downgrade|basic terms|the process of downgrading a program or operating system to an earlier version.
+download|software|transferring data from another computer to your computer
+drag|software|occurs when a user points the mouse at an icon or folder, presses the button and without releasing the button, moves the icon or folder to another place on the computer where the button is released
+driver|software|software program that controls a piece of hardware or a peripheral
+drivers|testing|function that demonstrates an operation of an object or code without doing anything algorithmically interesting 
+dynamic allocation|memory|the assignment of memory to a variable during program execution, as opposed to during compilation.
+dynamic binding|classes|another term for late binding 
+dynamic data structure|data structures|a collection of data that can grow (or shrink) in size at runtime
+dynamic filtering|security|a filtering method used by a firewall, that makes use of a connection table to keep track of open connections.
+dynamic object|memory|a dynamically allocated object. An object whose memory is allocated at execution time and remains allocated only as long as you want
+dynamic programming|approach|mathematical optimization and computer programming method
+dynamic cast|expressions|used in combinations with inheritance and run-time type identification
+dynamically allocated array|data structures|a data structure in which data is stored contiguously in an array with the amount being fixed at runtime instead of compile time
+dynamically typed|language|refers to a language where types do not have to be explicit (python, JS)
+early binding|pointers|setting alloted memory at compilation
+edge|data structure|the connection between two nodes of a graph.
+edges|trees|lines between the nodes of a tree 
+efficiency|algorithms|the ability of an algorithm to complete a task in the least amount of time.
+eigenvector|math|a vector that does not change direction when a linear transformation is applied to it.
+element|ata structures|a single item of data stored in a data structure.
+elementary data type|basic terms|a data type that is provided by a programming language.
+else|keyword|part of the if statement, if this that, else this.
+embedded-system|hardware|a complete computer system that has a dedicated function within a larger system
+encoding|compression|the process of representing data in binary form
+encryption|cyber-security|the process of applying an encryption algorithm to plaintext to produce ciphertext that cannot be understood
+enqueue|data structures|the process of adding an item to a queue
+entity annotation|artificial intelligence|the process of labeling unstructured sentences with information so that a machine can read them
+entity extraction|artificial intelligence|an umbrella term referring to the process of adding structure to data so that a machine can read it
+enumeration|term|symbolic name for a set of values
+erroneous-data|data|test data that should be caught by validation and rejected by a system
+error message|concepts|message that displays to the user that an error occured with the program
+ethical-hacking|cyber-security|the process of trying to break into a computer system with the permission of its owner, to determine its vulnerabilities and weak points
+event list|queues|a series of events that has not yet happened 
+event loop|queues|an algorithm that performs a simulation to repeatedly determine the times at which events occur and to process the events when they do occur
+evolutionary development|programming|iterative, incremental development of a solution over time 
+exception handler|exception|c++ code that executes to deal with an exception when one occurs
+exception handling|debugging|a way of processing successful or erroneous outputs to ensure that no major errors occur
+exception object|tools for large programs|object used to communicate between the throw and catch sides of an exception
+exception safe|statements|term used to describe programs that behave correctly when exceptions are thrown
+exception|c++|a c++ error-handling technique that enables non-local transfers of control.
+executable|program|file that contains a set of instructions that will be executed directly
+executable file|functions|file, which the operating system executes, that contains code corresponding to a program
+execution|concepts|when code is run and performs a task
+exhaustive search|searching|a solution will try every possible sequence of searches until it is found or no other methods exist 
+explicit|c++|a c++ keyword that turns off implicit use of some type conversion.
+exponential time|programming|an operation in a program operates at (o)^n, which means that it is exponentially affected by the size of the data
+expression|boolean logic|combination of variables constants values or operators that is evaluated to produce a result
+extensible methods|classes|adding more capabilities to an object without modifying its ancestors 
+external node|data structure|nodes having no children are called external nodes (or leaves) and nodes with children are called internal nodes.
+external sort|sorting algorithms|when the collection of data will not fi t in the computer’s main memory all at once but must reside in secondary storage, such as on a disk
+extreme point|math|a corner point of a polyhedron. More formally, a point which cannot be expressed as a convex combination of other points in the polyhedron.
+false|keyword|keyword used to specify a value for the bool type
+faq|software|frequently asked question; documents that answer questions common to a particular website or program
+fault|programming|a fault is a hardware or software failure
+fibonacci search|search|the fibonacci search technique is a method of searching a sorted array using a divide and conquer algorithm that narrows down possible locations with the aid of Fibonacci numbers.
+fifo|concepts|acronym for first in first out data structure
+file mode|io library|flags defined by the fstream classes that are specified when opening a file and control how a file can be used
+file stream|io library|stream object that reads or writes a named file
+file|software|namable unit of data storage; an element of data storage; a single sequence of bytes
+fill rate|computer graphics|the speed at which the display controller can render pixels
+firewall|networking|a program that decides whether traffic coming or going from a server should be allowed
+first class object|functional programming|an object that can be used as an argument to a function or produced as a return value 
+flash memory|memory and storage|a general term for non volatile memory devices that store binary data in electrical circuits 
+flat shading|computer graphics|also called constant shading. assigns a uniform color throughout an entire polygon
+flip flop|boolean logic|a circuit that can store a single bit value to act as a simple memory unit
+float|memory|keyword used to declare a floating point type (often an integer)
+floating-point|data|a form of data that has not only whole integers but also decimals and exponential bases
+flow|flow|he order in which individual statements, instructions or function calls of an imperative program are executed or evaluated
+flow of control|statements|execution path through a program
+folder|software|a graphical representation used to organize a collection of computer files; as in the concept of a filing cabinet (computer's hard drive) with files (folders)
+folding|hash functions|characterization of index values; adding each digit or letter in data together
+for loop|control mechanism|a type of loop to repeat an execution a specific number of times.
+for statement|statements|iteration statement that provides iterative execution. Ordinarily used to step through a container or to repeat a calculation
+forest|trees|set of disjointed trees
+forward chaining|artificial intelligence|a method in which a machine must work from a problem to find a potential solution
+fractal|iteration|a never-ending pattern.
+free list|trees|a collection of available nodes that can be used and put away when needed 
+free store|memory|another word for heap, extra memory given in a program to store data 
+freeware|software|software provided at no cost to the user
+frequency analysis|encryption|the process of examining the distribution of the letters or symbols in a piece of text
+friend|classes|mechanism by which a class grants access to its nonpublic members. Friends have the same access rights as members
+front|queue|front pointer
+full binary tree|trees|of height h , all nodes that are at a level less than h have two children each
+full tree|tree|a tree in which every node other than the leaves has two children
+function|program|piece of code that can be used over and over again 
+function declaration|programming|a declaration tells the compiler that the function is within the code to prevent errors at compile time
+function object|overloaded operations and conversion|object of a class that defines an overloaded call operator
+function prototype|functions|function declaration, consisting of the name, return type, and parameter types of a function
+function table|overloaded operations and conversion|container, often a map or a vector, that holds values that can be called
+function template|overloaded operations and conversion|library template that can represent any callable type
+functional abstraction|programming|separating the purpose of a module from its implementation
+functional composition|functional programming|an operation in which one function is applied to the result of another function 
+functor|c++|an object designed to work like a function.
+garbage collector|term|memory recovery feature built into some programming languages
+gdb|debugger|gdb stands for gnu project debugger and is a powerful debugging tool for c(along with other languages like c++)
+general ai|artificial intelligence|ai that could successfully do any intellectual task that can be done by any human being
+general case|recursion|a statement that expresses the solution to a problem in terms of a reference to a smaller version of that same problem 
+general tree|trees|where a node diverges into one or more subsets
+get|specialized library facilities|template function that returns the specified member for a given tuple
+gigabyte|software|1,073,741,824 bytes or 1,024 megabytes; generally abbreviated gb
+global namespace|scope|a collection of identifiers declared outside of a namespace, which are known everywhere in a program.
+global variable|data|a variable that every function in a program can access regardless of permissions
+gouraud shading|computer graphics|one of the most popular smooth shading algorithms, named after its french originator henri gouraud. a process by which color information is interpolated across the face of the polygon to determine the colors at each pixel
+grammar|languages|states the rules of a language 
+greedy algorithms|algorithm|follows the problem solving technique that chooses the locally optimal one, even if down the line it'll be worse
+gui|software|graphical user interface; uses pictures and words to represent ideas, choices, functions, etc.
+half-adder|hardware|a circuit that performs the addition of two bits
+hamilton circuit|graphs|path that begins at a vertex and passes through every other vertex once and ends at the origin 
+hard-disk-drive|hardware|a form of secondary storage, in which magnetic dots stored on platters used to store binary data
+harddrive|hardware|a device (usually within the computer case) that reads and writes information, including the operating system, program files, and data files
+harvard-architecture|hardware|a computer architecture that provides separate memories for data and instruction
+hash|associative containers|special library template that the unordered containers use to manage the position of their elements
+hash function|associative containers|function that maps values of a given type to the integral values
+hash table|data structure|the address/ index value of the data element is generated from a hash function.
+hash tables|hashing|an array of head pointers that point to their respective linear linked lists
+hashing|data structure|hashing is the process of transforming any given key or a string of characters into another value. 
+head|pointers|the beginning of a linear linked list 
+head function|functional programming|a function that returns the first item of a list of items as a scalar value 
+head pointer|pointers|the beginning of a linear linked list 
+head_pointer|link-based implementations|the head of the data structure
+header|files|a file that consists of classes, structs, and their respective private and public data members and member functions 
+header file|files|file that will hold all your prototypes, classes works with your other files
+heap|memory|an area of pre-reserved computer main storage ( memory ) that a program process can use to store data in some variable amount that won't be known until the program is running.
+heap adt|heaps|a complete binary tree that either is empty or whose root contains a value greater than or equal to the value in each of its children and has heaps as its subtrees
+heap sort|heaps|an algorithm that uses a heap to to sort an array of items that are in no particular order
+heaps|trees|complete binary trees 
+height balanced|trees|the height of any node’s right sub-tree differs from the height of the node’s left subtree by no more than 1
+height of the tree|trees|the number of nodes from the root of the tree to the most distant descendant
+hexidecimal|number system|numbering system with base 16, large numbers can be represented with fewer "digits"
+hiding|concepts|often used to hide details of code from user
+hierarchical|trees|a “parent-child” relationship exists between the nodes in the tree
+high level language|common terms|a language that is not similar to the one that runs on the hardware and deals more complex data types and control structures than the hardware such as c++
+horner's rule|programming|horner's rule minimizes the number of computations
+huffman coding|compression|a lossless compression technique often used to compress data (such as text) in which there are frequently occurring patterns
+huffman tree|tree|the binary tree with minimum external path weight
+hyper parameter|artificial intelligence|values that affect the way your model learns, usually set manually outside the model
+i/o|term|acronym for input output
+icon|software|a small picture used to represent a file or program in a GUI interface
+ide|programing|developers can write code and run their programs
+identify|c++|a programmer-specified name;
+if|condition|c++ keyword used in conditional statements
+ifstream|io library|file stream that reads an input file. By default ifstreams are opened with in mode set
+implementation|programming|process of writing the body of a function, the code that makes the function work
+increment operator|programming|operator that adds one to its operand
+increment|programming|to add 1 to something, often an int variable
+index|arrays|a number that specifies the position within an array
+infinite|recursion|improper or lack of precondition causes an infinite loop 
+infix expressions|algebra|expressions in which the operator appears between its operands 
+inorder|tree traversal|traversal method that handles data inbetween the left and right nodes 
+inorder traversal|trees|a type of recursive traversal of a tree adt
+input/output|term|references how a machine/program will recieve information (input) and return information (output)
+input|dialogue|inputs are anything your user will hand over to the program as data 
+insertion sort|algorithms|a sorting algorithm that makes final sorted data by sorting it one item at a time
+insertion|concepts|inserting something (usually data) into a data structure
+instance|classes|an object described by its class
+instantiate|classes|creating an object of a class 
+int|data types|a c++ keyword and fundamental type, used to declare an integral type
+integer|term|number without a fractional component
+integer|common terms|a whole number, that is, with no fractional part, maybe be positive, negative, or zero
+integrated development environment|programming|an integrated development environment is a programming system that includes multiple programming tools
+interface|classes|the (public) operations supported by a type. Ordinarily, the interface does not include data members
+internal node|data structure|any node of a tree that has child nodes and is thus not a leaf node
+internal sort|sorting algorithms|requires that the collection of data fi t entirely in the computer’s main memory
+internet|software|a network of computer networks encompassing the World Wide Web, FTP, telnet, and many other protocols
+interpolation|computer graphics|a mathematical way of regenerating missing or needed information
+interpreted languages|language|a language which does not have to be compiled, instructions are directly executed when first seen and are not converted to machine code beforehand, because of this they are much slower than compiled languages
+interpreter|coding|a program that can translate or interpret one coding language into another, commonly machine language
+invariant|algorithms|a condition that is always true at a particular point in an algorithm 
+ip address|networking|unique string of characters that identifies each device on a network
+ip number|software|internet protocol; a computer's unique address or number on the Internet
+isomorphic|design|a mapping for which an inverse mapping also exists.
+iterable|term|an object that can be looped over and iterated over with the help of a loop
+iteration|programming|coding using loops and if statements to solve problems
+iterator|strings, vectors, and arrays|a type used to access and navigate among the elements of a container
+java programming|programming|a language of coding
+javascript|coding|a programming language commonly used online, invented in 1993
+jump search|search|a search algorithm for ordered lists.
+karnaugh map|boolean logic|a way of arranging the truth table for a Boolean expression to facilitate simplification
+kernal|common terms|a computer program that supports the main system on a computer when it starts up
+key word|concepts|word specifically reserved for a certain purpose in a language
+key|programming|value from a hash function used to spread data in an array
+keyboard|hardware|a peripheral used to input data by pressing keys
+kilobyte|software|1,024 bytes; usually abbreviated kb
+label|artificial intelligence|a part of training data that identifies the desired output for that particular piece of data
+lambda|c++|an anonymous function, also called a lexical closure.
+language|programming|the way code is written out
+last in first out property|stacks|the last data object entered is also the first to be removed 
+late binding|classes|making implicit or indirect function calls in a program 
+latency|computers|the measure of time before entering input and the returned output
+latency|programming|measure of time between entering and input and the returned output
+layer|computer graphics|a level of an image that can be edited independently from the rest of the image
+leaf|trees|a node that doesn't have its own child node
+leaf node|trees|node which does not have any child
+left (right) child of node n|trees|a node directly below and to the left (right) of node n in a binary tree
+left (right) subtree of node n|trees|in a binary tree, the left (right) child (if any) of node n plus its descendants
+left child|trees|an edge that diverges to the left side of a binary tree
+left subtree|trees|the left side of the binary tree; is less than or equal to the right side
+level|trees|a specified node and its distance to the root of the tree
+level of a tree|trees|in a tree, each step from top to bottom is a level
+library programs|software|shared repositories of code that can be used by other programs 
+life cycle|software|the phases of software conception all the way to deletion 
+lifetime|concepts|how long an instance of something in a program lives for
+lifo|concepts|acronym for last in first out data structure
+line buffer|computer graphics|a memory buffer used to hold one line of video
+linear hash|data structure|data structure which implements a hash table and grows or shrinks one bucket at a time.
+linear linked list|data structures|a data structure in which data is stored in different locations in memory and linked together by pointers pointing to the address of the next data in memory
+linear probing|hash tables|solution for resolving collisions in hashtables, can be useful when there are minimal collisions(less data).
+linear time|programming|an operation in a program operates at (o)n, which means that it is linearly affected by the size of the data
+linear-time|time|the time complexity of an algorithm where the time taken to run it rises in direct proportion to the size of the input data set
+link|function|compilation step in which multiple object files are put together to form an executable program
+linked list|data structure| a linear collection of data elements whose order is not given by their physical placement in memory.
+linker|c++|the program that pulls together several compiled files into a single, executable file.
+list|adt|an abstract data type that represents a finite number of ordered values, where the same value may occur more than once.
+literal|variables and basic types|a value such as a number, a character, or a string of characters
+little-o notation|data structure|a theoretical measure of the execution of an algorithm, usually the time or memory needed, given the problem size n, which is usually the number of items.
+lll|data structure|linear linked list, stores data in a list that can grow or shrink
+load balance|network|a core networking solution used to distribute traffic across multiple servers in a server farm.
+load factor|hash tables|the ratio between current number of items in a table to the maximum space available 
+loader|language|the part of an operating system that is responsible for loading programs and libraries
+local access network|networks|a computer network that spans a small physical area
+local class |class|a class declared local to a function
+local variable|variable|a variable declared local to a function
+logarithmic time|programming|an operation in a program operates at log(base)(o) of n, which means that it is logarithmically affected by the size of the data
+logic error|common terms|a semantic error
+logic gate|boolean logic|an electronics component that carries out a logical operation on one or more inputs to produce a single output
+logical operators|boolean logic|operators such as and or and not that are used to form logical expressions also called boolean operators
+logic-circuit-diagram|hardware|a diagram that illustrates the arrangement of logic gates in a circuit
+logic-gate|hardware|an electronics component that carries out a logical operation on one or more inputs to produce a single output
+loop|common terms|a control structure in the code that causes repeated execution of a section of code
+lossless compression|compression|a method of compression where no data is permanently lost during the process
+lossy-compression|data|a method where data is permanently lost during the compression process and must be approximated where the file is decompressed
+lower bound|function|a function or growth rate below which solving a problem is impossible.
+lsp|c++|one should be able to substitute an instance of a derived class wherever an instance of a base class is called for.
+mac address|networking|unique string of character, each piece of hardware has a unique one
+machine code|computer system|program instructions that require no further translation
+machine intelligence|artificial intelligence|an umbrella term for various types of learning algorithms, including machine learning and deep learning
+machine language|coding|a set of commands specific to each computer's CPU that correspond to direct instructions
+machine learning|artificial intelligence|this subset of ai is particularly focused on developing algorithms that will help machines to learn and change in response to new data, without the help of a human being
+machine translation|artificial intelligence|the translation of text by an algorithm, independent of any human involvement
+machine-code|hardware|program instructions that require no further translation 
+machine-learning|ai|algorithms that learn the relationship between inputs and outputs in order to make predictions
+magnetic storage|memory and storage|a technique to store data using polarised magnetic dots the polarity of the dot is used to represent a 1 or a 0 
+main memory|memory and storage|aunit with addressable memory locations that can be accessed directly by the processor stores data and instructions while they are being processed 
+main|functions|a global function essential to all programs. It is the designated start of a program.
+malware|cyber-security|malicious software, a program designed to cause damage to computer systems, corrupt or change files, steal data, or cause disruption to services
+map|associative containers|associative container type that defines an associative array. Like vector, map is a class template
+map function|functional programming|higher order function where a given function is applied to every element in a given list resulting in a new list 
+map-function|software|a higher-order function where where a given function is applied to every element in a given list, resulting in a new list
+marching squares|algorithms|algorithms that removes points that are co-linear on a polygon 
+matrix|math|is a set of numbers laid out in rows and columns. 
+maxheap|heaps|the root of a tree contains the largest value 
+mealy-machine|hardware|a type of finite state machine that produces outputs
+median of three pivot selection|algorithms|sorting the first, middle, and last elements of an array 
+megabyte|software|1,048,576 bytes or 1,024 kilobytes; enough storage to approximately equal a 600 page paperback book; generally abbreviated mb
+member function|class|a function that is an element of a class and that operates on objects of that class
+memoization|technique|an optimization technique that stores the results of expensive function calls and returns the cached result if the same inputs occur again
+memo-ization|c++|storing results in some data structure rather than calculating them again and again.
+memory|computers|computer data storage
+memory address|term|reference to a specific location in memory
+memory leak|memory|allocated memory that is lost and can no longer be accessed or deallocated 
+memory segment|memory|an operating system memory management technique of division of a computer's primary memory into segments or sections.
+memory-leak|software|a problem that occurs where a computer program does not manage memory correctly
+menu|software|a list of operations available to the user of a program
+minimal interface|classes|one that contains a method if and only if the method is essential to the class’s responsibilities
+model|artificial intelligence|a broad term referring to the product of ai training, created by running a machine learning algorithm on training data
+modem|hardware|a peripheral device used to connect one computer to another over a phone line
+modular abstraction|programming|breaking up a large problem into multiple smaller subproblems
+modulo arithmetic|programming|modulo arithmetic uses the modulo operator to perform a calculation on a number
+modulo|concepts|operation used to find the remainder of a number
+monitor|hardware|a device used to display information visually
+motherboard|computing components|the main printed circuit board (pcb) in a computer
+mouse|hardware|a peripheral device used to point to items on a monitor
+move iterator|copy control|iterator adaptor that generates an iterator that, when dereferenced, yields an rvalue reference
+multipath|recursion|a solution to two solutions after recursively solving multiple subproblems 
+multipath recursion|recursion|solving two subproblems recursivly at the same time
+multiple inheritance|c++|when a derived class inherits from more than one base class.
+mutator method|methods|method used to control changes to a variable 
+mutator|function|a method of a class that provides a direct way to change the value of a private data member.
+named constants|language basics|variables that have values that do not change
+namespace|scope|declarative region that provude s ascope to the identifiers 
+nand|boolean logic|a boolean operation that outputs true if either or both of the input values are False. It is the logical inverse of and
+n-ary tree|trees|a tree where its nodes contain n children 
+natural language generation|artificial intelligence|the process by which a machine turns structured data into text or speech that humans can understand
+natural language processing|artificial intelligence|the umbrella term for any machine's ability to perform conversational tasks
+natural language understanding|artificial intelligence|deals with helping machines to recognize the intended meaning of language
+natural number|base|a finite1 set x such that (a) every element y of x is also a subset of x, and (b) every element y of x is also a natural number
+negative number|base|that in two's complement if the msb is a 0 the number is positive and if it is a 1 the number is negative
+nested loops|loops|where one loop is located within another loop; inner loop fully executes before out shell loop
+nesting|programming|to place a loop inside of a loop
+network|networks|a network is a group of computers connected to each other in order to send and receive data
+network-access-device|hardware|hardware often supplied by an internet service provider that combines a wireless access point, an ethernet switch, modem, and router
+network-channel|hardware|a band of frequencies that is allocated for devices on the same wireless network to communicate on
+networking|networking|refers to the interaction and exchange of data
+neural network|artificial intelligence|a computer system designed to function like the human brain
+new operator|operator|"new" is a key word that allows the allocation of memory for a variable 
+new|memory|keyword used to allocate new memory for an object
+next|lll|next pointer
+nibble|hardware|half a byte, four bits
+nic|hardware|network interface card; a board inserted in a computer that provides a physical connection to a network
+node|data structures|a node is a basic unit that operates using pointers, they generally contain a pointer to themselves and the data stored within them
+nodes|nodes|a structure that contains the address of a next node; may contain data
+non destructive method|methods|any method that does not alter an attribute of an object 
+non volatile memory|memory and storage|memory that retains data when the device is switched off or power is lost 
+nondeterministic|algorithm|a nondeterministic algorithm is an algorithm that, even for the same input, can exhibit different behaviors on different runs, as opposed to a deterministic algorithm
+nonrecursive traversal|traversal|a method of going from one node to another without the use of recursion
+non-volatile-memory|data|memory that retains data when the device is switched off or power is lost
+nor|boolean logic|a boolean operation that outputs true if both of the input values are false. It is the logical inverse of or
+not|boolean logic|a boolean operation that outputs true if the input value is false and vice versa
+null statement|statements|an empty statement. Indicated by a single semicolon
+nullptr|programming|special data value used to set pointers to have no value
+object oriented analysis and design|objects|problem solving process
+object oriented design|objects|description of the problem that fulfills the requirements discovered during analysis
+objects|objects|contains a set of characteristic and behaviours related to the solution
+ofstream|io library|file stream that writes to an output file. By default, ofstreams are opened with out mode set
+one time pad|encryption|an encryption key that is used just once to encrypt and decrypt a message, and is then completely destroyed
+oop|paradigm|acronym for object oreiented programming
+opcode|hardware|part of a machine code instruction that defines the fundamental machine operation to be used
+open addressing|hash tables|a collision resolution technique that maps data that has been mapped to an already occupied index to an empty index
+
